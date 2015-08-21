@@ -11,6 +11,13 @@ BASIC SHIT WE NEED TO GET DONE ASAP
 	
 	2) GET ALL NPCS PUT IN PLACE AND THE HEIGHT CORRECTED
 		***INCLUDING GAS STATION AND DELEVERY POINT 
+		-Adelaid DMV is floating
+		-Adelaid Clothing store is floating
+		-Adelaid General store is floating
+		-Adelaid Bar needs to be moved. Standing in the bar table.
+		-Adelaid Gas station door wont open
+		-
+
 	
 	3) GET ALL VEHICLE SPAWNS PLACED AND MAKE SURE THE VEHICLES ARE SPAWNING CORRECTLY
 	
