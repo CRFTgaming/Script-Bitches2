@@ -7,4 +7,7 @@ Map Problems :
 		-Adelaid General store is floating
 		-Adelaid Bar needs to be moved. Standing in the bar table.
 		-Adelaid Gas station door wont open
+		-Blackmarket Trader @278080 - vehicle garage spawns off map.
+		-Blackmarket Trader @288080 - vehicle shop/air garage spawns too close player/NPC
+		-Blackmarket Trader @278080 - weapon shop NPC is floating
 		-
