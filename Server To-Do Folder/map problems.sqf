@@ -13,4 +13,5 @@ Map Problems :
 		-Melbourne General Store @314097 - NPC is floating.
 		-Melbourne Aussie Oil @308098 - NPC is floating.
 		-Melbourne Bottling Co. @308101 - No NPC (I assume this is placeholder)
-		-Melboutne Medical Assistance @311102 - NPC is floating.
+		-Melbourne Medical Assistance @311102 - NPC is floating.
+		-
