@@ -14,4 +14,5 @@ Map Problems :
 		-Melbourne Aussie Oil @308098 - NPC is floating.
 		-Melbourne Bottling Co. @308101 - No NPC (I assume this is placeholder)
 		-Melbourne Medical Assistance @311102 - NPC is floating.
-		-
+		-SWAT Vendors @195243 - NPC's floating and clipping inside eachother
+		
