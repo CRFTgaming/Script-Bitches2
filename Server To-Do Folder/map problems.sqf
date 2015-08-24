@@ -1,6 +1,9 @@
 
 Map Problems :
 
+Major Cities Tested (only add to this list once you have reviewed all NPCs/shops as your class of civ, AFP and EMS):
+	- Melbourne (as civ)
+	- Sydney (as civ)
 
 		-Adelaid DMV is floating
 		-Adelaid Clothing store is floating
@@ -8,7 +11,7 @@ Map Problems :
 		-Adelaid Bar needs to be moved. Standing in the bar table.
 		-Adelaid Gas station door wont open
 		-Blackmarket Trader @278080 - vehicle garage spawns off map.
-		-Blackmarket Trader @288080 - vehicle shop/air garage spawns too close player/NPC.
+		-Blackmarket Trader @278080 - vehicle shop/air garage spawns too close player/NPC.
 		-Blackmarket Trader @278080 - weapon shop NPC is floating.
 		-Melbourne General Store @314097 - NPC is floating.
 		-Melbourne Aussie Oil @308098 - NPC is floating.
