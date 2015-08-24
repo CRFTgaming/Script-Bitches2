@@ -1,10 +1,12 @@
 
 Map Problems :
 
-Major Cities Tested (only add to this list once you have reviewed all NPCs/shops as your class of civ, AFP and EMS):
-	- Melbourne (as civ)
-	- Sydney (as civ)
-
+Major Cities Tested 
+(only add to this list once you have reviewed all NPCs, shops, vehicle spawns, etc. as your class of civ, AFP and EMS):
+	- Melbourne (as civ) [Woody]
+	- Sydney (as civ) [Woody]
+	- Brisbane (as civ) [Woody]
+	
 		-Adelaid DMV is floating
 		-Adelaid Clothing store is floating
 		-Adelaid General store is floating
@@ -29,5 +31,10 @@ Major Cities Tested (only add to this list once you have reviewed all NPCs/shops
 		-South Brisbane Brewery @384194 - No NPC (I assume this is placeholder)
 		-DP8 @386195 - NPC is in building wall.
 		-Brisbane Truck Shop @382195 - Vehicles Spawn too close to NPC.
+		-Brisbane Gas West @379197 - NPC is not located in the store.
+		-Brisbane Carshop @383200 - There is no NPC.
+		-Brisbane Hospital @380200 - EMS NPC is partially inside ATM.
+		-Brisbane Garage @383202 - Garage and Car Shop NPCs are too close together.
+		-Brisbane Airport @382206 - NPC is floating.
 		-
 		
