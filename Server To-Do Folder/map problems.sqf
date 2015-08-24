@@ -17,7 +17,7 @@ Major Cities Tested
 		-Blackmarket Trader @278080 - weapon shop NPC is floating.
 		-Melbourne General Store @314097 - NPC is floating.
 		-Melbourne Aussie Oil @308098 - NPC is floating.
-		-Melbourne Bottling Co. @308101 - No NPC (I assume this is placeholder)
+		-Melbourne Bottling Co. @308101 - No NPC (I assume this is a placeholder)
 		-Melbourne Medical Assistance @311102 - NPC is floating.
 		-SWAT Vendors @195243 - NPC's floating and clipping inside eachother
 		-Sydney Iron/Copper Buyer @349117 - NPC is not at the desk.
@@ -28,7 +28,7 @@ Major Cities Tested
 		-Sydney Marina Boat Shop @369126 - NPC is in the water
 		-Sydney Marina Boat Shop @369126 - NPC has option for "Nexoe Marina", should be "Boat Garage".
 		-Sydney Heliport @365131 - Second helipad is not operational.
-		-South Brisbane Brewery @384194 - No NPC (I assume this is placeholder)
+		-South Brisbane Brewery @384194 - No NPC (I assume this is a placeholder)
 		-DP8 @386195 - NPC is in building wall.
 		-Brisbane Truck Shop @382195 - Vehicles Spawn too close to NPC.
 		-Brisbane Gas West @379197 - NPC is not located in the store.
@@ -36,5 +36,16 @@ Major Cities Tested
 		-Brisbane Hospital @380200 - EMS NPC is partially inside ATM.
 		-Brisbane Garage @383202 - Garage and Car Shop NPCs are too close together.
 		-Brisbane Airport @382206 - NPC is floating.
+		-Toowoomba Tex's Gun Store @309200 - NPC is floating.
+		-Toowoomba Gas @310201 - Labelled as "Pedersker Gas"
+		-Toowoomba Gas @310201 - NPC is not located in the store.
+		-Distillery @292233 - No NPC (I assume this is a placeholder).
+		-DP12 @344244 - NPC is floating.
+		-Cairns Airport @316309 - NPC is floating.
+		-Gang Hideout 3 @291341 - No NPCs (I assume this is a placeholder).
+		-DP16 @284352 - Has an NPC for a Gun Runner's Dealer.
+		-Blackmarket Dealer @290365 - Shop named "Fancy Weapon Shop"
+		-Blackmarket Dealer @290365 - NPC is floating.
+		-Blackmarket Dealer @290365 - Non-floating NPC "Blackmarket Dealer" opens "Blackmarket Vehicle Shop"
+		-Blackmarket Dealer @290365 - NPCs are not placed in Outpost compound.
 		-
-		
