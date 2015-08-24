@@ -6,6 +6,8 @@ Major Cities Tested
 	- Melbourne (as civ) [Woody]
 	- Sydney (as civ) [Woody]
 	- Brisbane (as civ) [Woody]
+	- Cairns (as civ) [Woody]
+	- Darwin (as civ) [Woody]
 	
 		-Adelaid DMV is floating
 		-Adelaid Clothing store is floating
@@ -48,4 +50,11 @@ Major Cities Tested
 		-Blackmarket Dealer @290365 - NPC is floating.
 		-Blackmarket Dealer @290365 - Non-floating NPC "Blackmarket Dealer" opens "Blackmarket Vehicle Shop"
 		-Blackmarket Dealer @290365 - NPCs are not placed in Outpost compound.
+		-Gun Runner's Dealer @234251 - No NPC
+		-Darwin Gas Station @158334 - No market NPC
+		-DP17 @164334 - Market NPC is next to delivery mission NPC.
+		-Darwin Medical @166335 - No medical NPC for healing.
+		-Darwin Airport Plane NPC @167338 - Planes spawn too close to NPC and not on the runway.
+		-Darwin Airport Plane NPC @167338 - NPC is floating.
+		-Darwin Airport Helicopter NPC @167338 - Helicopter Shop is not usable for civ.
 		-
