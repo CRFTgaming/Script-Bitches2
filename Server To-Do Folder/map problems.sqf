@@ -1,25 +1,28 @@
 Major Cities/Areas Tested 
 (only add to this list once you have reviewed all NPCs, shops, vehicle spawns, etc. as your class of civ/rebel, AFP or EMS):
-	- Melbourne (as civ) [Woody]
-	- Sydney (as civ) [Woody]
-	- Brisbane (as civ) [Woody]
-	- Cairns (as civ) [Woody]
-	- Darwin (as civ) [Woody]
-	- Northern Rebel Compound (as civ) [Woody]
-	- South Rebel Outpost (as civ) [Woody]
-	- Gang Hideout 3 (as civ) [Woody]
-	- Perth (as civ) [Woody]
+	- Melbourne (civ) [Woody]
+	- Sydney (civ) [Woody]
+	- Brisbane (civ) [Woody]
+	- Cairns (civ) [Woody]
+	- Darwin (civ) [Woody]
+	- Northern Rebel Compound (civ) [Woody]
+	- South Rebel Outpost (civ) [Woody]
+	- Gang Hideout 3 (civ) [Woody]
+	- Perth (civ) [Woody]
+	- Adelaide (civ) [Woody]
 	
 Map Problems :	
-		-Adelaid DMV @252128 - NPC is floating
-		-Adelaid Outback Outfitter @251128 - NPC is floating
-		-Adelaid Bar @252127 - NPC is floating and not behind bar.
+		-Adelaide DMV @252128 - NPC is floating
+		-Adelaide Outback Outfitter @251128 - NPC is floating
+		-Adelaide Bar @252127 - NPC is floating and not behind bar.
 		-Adelaide Marina @246124 - Ladders not usable and no nearby way to get out of water.
 		-Adelaide Medical @253127 - EMS NPC is floating.
 		-Adelaide Medical @253126 - Medical Assistance NPC is floating.
 		-Adelaide Central Bank @252127 - Building is Centre Link (social security) not a bank.
 		-Adelaide General Store @252127 - NPC is in the ground.
-		-
+		-Adelaide Airport @256138 - Helicopter shop not accessible as civ.
+		-Adelaide Airport @246138 - Plane shop NPC is floating.
+		-Adelaide Airport @246138 - Plane shop is labelled "Anthony's Planes".
 		-Blackmarket Trader @278080 - vehicle garage spawns off map.
 		-Blackmarket Trader @278080 - vehicle shop/air garage spawns too close player/NPC.
 		-Blackmarket Trader @278080 - weapon shop NPC is floating.
@@ -30,7 +33,7 @@ Map Problems :
 		-SWAT Vendors @195243 - NPC's floating and clipping inside eachother
 		-Sydney Iron/Copper Buyer @349117 - NPC is not at the desk.
 		-Sydney Airport Plane Shop @351123 - NPC is floating.
-		-Sydney Airport Helicopter Shop @352122 - NPC is not usable for civ.
+		-Sydney Airport Helicopter Shop @352122 - Helicopter shop not accessible as civ.
 		-Sydney Truck Shop @361121 - Vehicles Spawn too close to NPC.
 		-Sydney Marina @369126 - Labelled as Sveneke Marina
 		-Sydney Marina Boat Shop @369126 - NPC is in the water
@@ -62,7 +65,7 @@ Map Problems :
 		-Darwin Medical @166335 - No medical assistance NPC for healing.
 		-Darwin Airport Plane NPC @167338 - Planes spawn too close to NPC and not on the runway.
 		-Darwin Airport Plane NPC @167338 - NPC is floating.
-		-Darwin Airport Helicopter NPC @167338 - Helicopter Shop is not usable for civ.
+		-Darwin Airport Helicopter NPC @167338 - Helicopter shop not accessible as civ.
 		-Chop Shop @101298 - NPC is not in chop shop compound.
 		-Northern Rebel Compound @067256 - Rebel Special Weapons NPC opens Gun Runner's Dealer Shop.
 		-Distillery @112186 - No NPC (I assume this is a placeholder).
@@ -89,4 +92,3 @@ Map Problems :
 		-South Australian Gas @193164 - NPC is not at the till.
 		-DP10 @207128 - NPC is partially in the ground.
 		-Gun Runner's Dealer @222119 - NPC is floating.
-		-
