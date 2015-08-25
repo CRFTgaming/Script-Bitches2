@@ -11,11 +11,15 @@ Major Cities/Areas Tested
 	- Perth (as civ) [Woody]
 	
 Map Problems :	
-		-Adelaid DMV is floating
-		-Adelaid Clothing store is floating
-		-Adelaid General store is floating
-		-Adelaid Bar needs to be moved. Standing in the bar table.
-		-Adelaid Gas station door wont open
+		-Adelaid DMV @252128 - NPC is floating
+		-Adelaid Outback Outfitter @251128 - NPC is floating
+		-Adelaid Bar @252127 - NPC is floating and not behind bar.
+		-Adelaide Marina @246124 - Ladders not usable and no nearby way to get out of water.
+		-Adelaide Medical @253127 - EMS NPC is floating.
+		-Adelaide Medical @253126 - Medical Assistance NPC is floating.
+		-Adelaide Central Bank @252127 - Building is Centre Link (social security) not a bank.
+		-Adelaide General Store @252127 - NPC is in the ground.
+		-
 		-Blackmarket Trader @278080 - vehicle garage spawns off map.
 		-Blackmarket Trader @278080 - vehicle shop/air garage spawns too close player/NPC.
 		-Blackmarket Trader @278080 - weapon shop NPC is floating.
@@ -81,4 +85,8 @@ Map Problems :
 		-Perth Car Shop @053184 - NPCs are in the road the siding. Australia Map v3 change?
 		-Perth National Bank @056184 - Labelled as Sydney National Bank.
 		-Perth Gas East @055187 - Not located inside store.
-		
+		-South Australian Gas @193164 - NPC is floating.
+		-South Australian Gas @193164 - NPC is not at the till.
+		-DP10 @207128 - NPC is partially in the ground.
+		-Gun Runner's Dealer @222119 - NPC is floating.
+		-
