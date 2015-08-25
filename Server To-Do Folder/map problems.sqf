@@ -12,13 +12,13 @@ Major Cities/Areas Tested
 	- Adelaide (civ) [Woody]
 	
 Map Problems :	
-		-Adelaide DMV @252128 - NPC is floating
-		-Adelaide Outback Outfitter @251128 - NPC is floating
-		-Adelaide Bar @252127 - NPC is floating and not behind bar.
-		-Adelaide Marina @246124 - Ladders not usable and no nearby way to get out of water.
-		-Adelaide Medical @253127 - EMS NPC is floating.
-		-Adelaide Medical @253126 - Medical Assistance NPC is floating.
-		-Adelaide Central Bank @252127 - Building is Centre Link (social security) not a bank.
+		 Ace -Adelaide DMV @252128 - NPC is floating
+		 Ace -Adelaide Outback Outfitter @251128 - NPC is floating
+		 Ace -Adelaide Bar @252127 - NPC is floating and not behind bar.
+		 Ace -Adelaide Marina @246124 - Ladders not usable and no nearby way to get out of water.
+		 Ace -Adelaide Medical @253127 - EMS NPC is floating.
+		 Ace -Adelaide Medical @253126 - Medical Assistance NPC is floating.
+		 Ace -Adelaide Central Bank @252127 - Building is Centre Link (social security) not a bank.
 		-Adelaide General Store @252127 - NPC is in the ground.
 		-Adelaide Airport @256138 - Helicopter shop not accessible as civ.
 		-Adelaide Airport @246138 - Plane shop NPC is floating.
