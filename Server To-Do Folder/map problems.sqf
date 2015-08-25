@@ -1,5 +1,5 @@
 Major Cities/Areas Tested 
-(only add to this list once you have reviewed all NPCs, shops, vehicle spawns, etc. as your class of civ/rebel, AFP and EMS):
+(only add to this list once you have reviewed all NPCs, shops, vehicle spawns, etc. as your class of civ/rebel, AFP or EMS):
 	- Melbourne (as civ) [Woody]
 	- Sydney (as civ) [Woody]
 	- Brisbane (as civ) [Woody]
@@ -8,6 +8,7 @@ Major Cities/Areas Tested
 	- Northern Rebel Compound (as civ) [Woody]
 	- South Rebel Outpost (as civ) [Woody]
 	- Gang Hideout 3 (as civ) [Woody]
+	- Perth (as civ) [Woody]
 	
 Map Problems :	
 		-Adelaid DMV is floating
@@ -71,4 +72,13 @@ Map Problems :
 		-Perth Diving Shop @045177 - NPC is behind marina wall.
 		-Perth Truck Shop @048177 - Vehicles spawn too close to NPC.
 		-Perth Brewery @048180 - Labelled as Hasle Brewery.
-		-
+		-Perth Airport Heli Shop @069180 - Vehicles spawn too close to NPC.
+		-Perth Airport Heli Shop @069180 - No store vehicle option.
+		-Perth Airport Plane Shop @068181 - NPC floating.
+		-Perth Airport Heliport @067180 - Second heli pad spawn point not working.
+		-Perth Medical Center @056183 - EMS NPC is floating.
+		-Perth Medical Center @055183 - Medical Assistance NPC is floating.
+		-Perth Car Shop @053184 - NPCs are in the road the siding. Australia Map v3 change?
+		-Perth National Bank @056184 - Labelled as Sydney National Bank.
+		-Perth Gas East @055187 - Not located inside store.
+		
