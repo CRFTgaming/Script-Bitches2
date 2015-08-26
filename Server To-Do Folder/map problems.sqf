@@ -19,42 +19,42 @@ Map Problems :
 		 Ace -Adelaide Medical @253127 - EMS NPC is floating.
 		 Ace -Adelaide Medical @253126 - Medical Assistance NPC is floating.
 		 Ace -Adelaide Central Bank @252127 - Building is Centre Link (social security) not a bank.
-		-Adelaide General Store @252127 - NPC is in the ground.
-		-Adelaide Airport @256138 - Helicopter shop not accessible as civ.
-		-Adelaide Airport @246138 - Plane shop NPC is floating.
-		-Adelaide Airport @246138 - Plane shop is labelled "Anthony's Planes".
-		-Blackmarket Trader @278080 - vehicle garage spawns off map.
-		-Blackmarket Trader @278080 - vehicle shop/air garage spawns too close player/NPC.
-		-Blackmarket Trader @278080 - weapon shop NPC is floating.
-		-Melbourne General Store @314097 - NPC is floating.
-		-Melbourne Aussie Oil @308098 - NPC is floating.
-		-Melbourne Bottling Co. @308101 - No NPC (I assume this is a placeholder)
-		-Melbourne Medical Assistance @311102 - NPC is floating.
-		-SWAT Vendors @195243 - NPC's floating and clipping inside eachother
-		-Sydney Iron/Copper Buyer @349117 - NPC is not at the desk.
-		-Sydney Airport Plane Shop @351123 - NPC is floating.
-		-Sydney Airport Helicopter Shop @352122 - Helicopter shop not accessible as civ.
-		-Sydney Truck Shop @361121 - Vehicles Spawn too close to NPC.
-		-Sydney Marina @369126 - Labelled as Sveneke Marina
-		-Sydney Marina Boat Shop @369126 - NPC is in the water
-		-Sydney Marina Boat Shop @369126 - NPC has option for "Nexoe Marina", should be "Boat Garage".
-		-Sydney Heliport @365131 - Second helipad is not operational.
-		-South Brisbane Brewery @384194 - No NPC (I assume this is a placeholder)
-		-DP8 @386195 - NPC is in building wall.
-		-Brisbane Truck Shop @382195 - Vehicles Spawn too close to NPC.
-		-Brisbane Gas West @379197 - NPC is not located in the store.
-		-Brisbane Carshop @383200 - There is no NPC.
-		-Brisbane Hospital @380200 - EMS NPC is partially inside ATM.
-		-Brisbane Garage @383202 - Garage and Car Shop NPCs are too close together.
-		-Brisbane Airport @382206 - NPC is floating.
-		-Toowoomba Tex's Gun Store @309200 - NPC is floating.
-		-Toowoomba Gas @310201 - Labelled as "Pedersker Gas"
-		-Toowoomba Gas @310201 - NPC is not located in the store.
-		-Distillery @292233 - No NPC (I assume this is a placeholder).
-		-DP12 @344244 - NPC is floating.
-		-Cairns Airport @316309 - NPC is floating.
-		-Gang Hideout 3 @291341 - No NPCs (I assume this is a placeholder).
-		-DP16 @284352 - Has an NPC for a Gun Runner's Dealer.
+		 Ace -Adelaide General Store @252127 - NPC is in the ground.
+		 Ace -Adelaide Airport @256138 - Helicopter shop not accessible as civ.
+		 Ace -Adelaide Airport @246138 - Plane shop NPC is floating.
+		 Ace -Adelaide Airport @246138 - Plane shop is labelled "Anthony's Planes".
+		 Ace -Blackmarket Trader @278080 - vehicle garage spawns off map.
+		 Ace -Blackmarket Trader @278080 - vehicle shop/air garage spawns too close player/NPC.
+		 Ace -Blackmarket Trader @278080 - weapon shop NPC is floating.
+		 Ace -Melbourne General Store @314097 - NPC is floating.
+		 Ace -Melbourne Aussie Oil @308098 - NPC is floating.
+		 ACe -Melbourne Bottling Co. @308101 - No NPC (Try using the pile of Crates on the ground)
+		 Ace -Melbourne Medical Assistance @311102 - NPC is floating.
+		 Ace -SWAT Vendors @195243 - NPC's floating and clipping inside eachother
+		 Ace -Sydney Iron/Copper Buyer @349117 - NPC is not at the desk.
+		 Ace -Sydney Airport Plane Shop @351123 - NPC is floating.
+		 Ace -Sydney Airport Helicopter Shop @352122 - Helicopter shop not accessible as civ.
+		 Ace -Sydney Truck Shop @361121 - Vehicles Spawn too close to NPC.
+		 Ace -Sydney Marina @369126 - Labelled as Sveneke Marina
+		 Ace -Sydney Marina Boat Shop @369126 - NPC is in the water
+		 Ace -Sydney Marina Boat Shop @369126 - NPC has option for "Nexoe Marina", should be "Boat Garage".
+		 Ace -Sydney Heliport @365131 - Second helipad is not operational.
+		 Ace -South Brisbane Brewery @384194 - No NPC (Try using the mixing tower.)
+		 Ace -DP8 @386195 - NPC is in building wall.
+		 Ace -Brisbane Truck Shop @382195 - Vehicles Spawn too close to NPC.
+		 Ace -Brisbane Gas West @379197 - NPC is not located in the store.
+		 Ace -Brisbane Carshop @383200 - There is no NPC.
+		 Ace -Brisbane Hospital @380200 - EMS NPC is partially inside ATM.
+		 Ace -Brisbane Garage @383202 - Garage and Car Shop NPCs are too close together.
+		 Ace -Brisbane Airport @382206 - NPC is floating.
+		 Ace -Toowoomba Tex's Gun Store @309200 - NPC is floating.
+		 Ace -Toowoomba Gas @310201 - Labelled as "Pedersker Gas"
+		 Ace -Toowoomba Gas @310201 - NPC is not located in the store.
+		 Ace -Distillery @292233 - No NPC (Try using the container on the fire).
+		 Ace -DP12 @344244 - NPC is floating.
+		 Ace -Cairns Airport @316309 - NPC is floating.
+		-Gang Hideout 3 @291341 - No NPCs (Does not use NPCs).
+		-DP16 @284352 - Has an NPC for a Gun Runner's Dealer. Ace please Recheck.
 		-Blackmarket Dealer @290365 - Shop named "Fancy Weapon Shop"
 		-Blackmarket Dealer @290365 - NPC is floating.
 		-Blackmarket Dealer @290365 - Non-floating NPC "Blackmarket Dealer" opens "Blackmarket Vehicle Shop"
@@ -92,3 +92,11 @@ Map Problems :
 		-South Australian Gas @193164 - NPC is not at the till.
 		-DP10 @207128 - NPC is partially in the ground.
 		-Gun Runner's Dealer @222119 - NPC is floating.
+		
+		
+	Ace's To Do List
+		- Shop NPCs in Alice Springs
+		- Toowomba Gun store needs built
+		- NPC Shops in Toowomba
+		- Build Gang Hide Out
+		
