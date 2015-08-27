@@ -54,27 +54,27 @@ Map Problems :
 		 Ace -DP12 @344244 - NPC is floating.
 		 Ace -Cairns Airport @316309 - NPC is floating.
 		-Gang Hideout 3 @291341 - No NPCs (Does not use NPCs).
-		-DP16 @284352 - Has an NPC for a Gun Runner's Dealer. Ace please Recheck.
-		-Blackmarket Dealer @290365 - Shop named "Fancy Weapon Shop"
-		-Blackmarket Dealer @290365 - NPC is floating.
-		-Blackmarket Dealer @290365 - Non-floating NPC "Blackmarket Dealer" opens "Blackmarket Vehicle Shop"
-		-Blackmarket Dealer @290365 - NPCs are not placed in Outpost compound.
-		-Gun Runner's Dealer @234251 - No NPC
-		-Darwin Gas Station @158334 - No market NPC
-		-DP17 @164334 - Market NPC is next to delivery mission NPC.
-		-Darwin Medical @166335 - No medical assistance NPC for healing.
-		-Darwin Airport Plane NPC @167338 - Planes spawn too close to NPC and not on the runway.
-		-Darwin Airport Plane NPC @167338 - NPC is floating.
-		-Darwin Airport Helicopter NPC @167338 - Helicopter shop not accessible as civ.
-		-Chop Shop @101298 - NPC is not in chop shop compound.
+		-DP16 @284352 - Has an NPC for a Gun Runner's Dealer. ----- Please Recheck.
+		 Ace -Blackmarket Dealer @290365 - Shop named "Fancy Weapon Shop"
+		 Ace -Blackmarket Dealer @290365 - NPC is floating.
+		 ??? -Blackmarket Dealer @290365 - Non-floating NPC "Blackmarket Dealer" opens "Blackmarket Vehicle Shop"
+		 ??? -Blackmarket Dealer @290365 - NPCs are not placed in Outpost compound.
+		 Ace -Gun Runner's Dealer @234251 - No NPC
+		 Ace -Darwin Gas Station @158334 - No market NPC
+		 Ace -DP17 @164334 - Market NPC is next to delivery mission NPC.
+		 Ace -Darwin Medical @166335 - No medical assistance NPC for healing.
+	 	 Ace -Darwin Airport Plane NPC @167338 - Planes spawn too close to NPC and not on the runway.
+		 Ace -Darwin Airport Plane NPC @167338 - NPC is floating.
+		 Ace -Darwin Airport Helicopter NPC @167338 - Helicopter shop not accessible as civ.
+		 Ace -Chop Shop @101298 - NPC is not in chop shop compound. ** Moved to alice springs
 		-Northern Rebel Compound @067256 - Rebel Special Weapons NPC opens Gun Runner's Dealer Shop.
 		-Distillery @112186 - No NPC (I assume this is a placeholder).
-		-South Rebel Outpost @142182 - New shop bought vehicles spawn too close to NPC.
-		-South Rebel Outpost @142182 - Garage (air & land) retrieved vehicles spawn off map.
-		-Perth Marina @042176 - NPC is floating.
-		-Perth Marina @042176 - Unable to freshly spawned boat (until you go to boat and return to NPC)
-		-Perth Marina @042176 - Ladder not usable and no nearby way to get out of water.
-		-Perth Oil Processing @140176 - *License listed as 10K takes 28K
+		 Ace -South Rebel Outpost @142182 - New shop bought vehicles spawn too close to NPC.
+		 Ace -South Rebel Outpost @142182 - Garage (air & land) retrieved vehicles spawn off map.
+		 Ace -Perth Marina @042176 - NPC is floating.
+		 Ace -Perth Marina @042176 - Unable to freshly spawned boat (until you go to boat and return to NPC)
+		 Ace -Perth Marina @042176 - Ladder not usable and no nearby way to get out of water.
+		 Ace -Perth Oil Processing @140176 - *License listed as 10K takes 28K
 		-Perth Oil Processing @140176 - NPC is floating.
 		-Perth Diving Shop @045177 - NPC is behind marina wall.
 		-Perth Truck Shop @048177 - Vehicles spawn too close to NPC.
