@@ -75,23 +75,23 @@ Map Problems :
 		 Ace -Perth Marina @042176 - Unable to freshly spawned boat (until you go to boat and return to NPC)
 		 Ace -Perth Marina @042176 - Ladder not usable and no nearby way to get out of water.
 		 Ace -Perth Oil Processing @140176 - *License listed as 10K takes 28K
-		-Perth Oil Processing @140176 - NPC is floating.
-		-Perth Diving Shop @045177 - NPC is behind marina wall.
-		-Perth Truck Shop @048177 - Vehicles spawn too close to NPC.
-		-Perth Brewery @048180 - Labelled as Hasle Brewery.
-		-Perth Airport Heli Shop @069180 - Vehicles spawn too close to NPC.
-		-Perth Airport Heli Shop @069180 - No store vehicle option.
-		-Perth Airport Plane Shop @068181 - NPC floating.
-		-Perth Airport Heliport @067180 - Second heli pad spawn point not working.
-		-Perth Medical Center @056183 - EMS NPC is floating.
-		-Perth Medical Center @055183 - Medical Assistance NPC is floating.
-		-Perth Car Shop @053184 - NPCs are in the road the siding. Australia Map v3 change?
-		-Perth National Bank @056184 - Labelled as Sydney National Bank.
-		-Perth Gas East @055187 - Not located inside store.
-		-South Australian Gas @193164 - NPC is floating.
-		-South Australian Gas @193164 - NPC is not at the till.
-		-DP10 @207128 - NPC is partially in the ground.
-		-Gun Runner's Dealer @222119 - NPC is floating.
+		 Ace -Perth Oil Processing @140176 - NPC is floating.
+		 Ace -Perth Diving Shop @045177 - NPC is behind marina wall.
+		 Ace -Perth Truck Shop @048177 - Vehicles spawn too close to NPC.
+		 Ace -Perth Brewery @048180 - Labelled as Hasle Brewery.
+		 Ace -Perth Airport Heli Shop @069180 - Vehicles spawn too close to NPC.
+		 Ace -Perth Airport Heli Shop @069180 - No store vehicle option.
+		 Ace -Perth Airport Plane Shop @068181 - NPC floating.
+		 Ace -Perth Airport Heliport @067180 - Second heli pad spawn point not working.
+		 Ace -Perth Medical Center @056183 - EMS NPC is floating.
+		 Ace -Perth Medical Center @055183 - Medical Assistance NPC is floating.
+		 Ace -Perth Car Shop @053184 - NPCs are in the road the siding. Australia Map v3 change?
+		 Ace -Perth National Bank @056184 - Labelled as Sydney National Bank.
+		 Ace -Perth Gas East @055187 - Not located inside store.
+		 Ace -South Australian Gas @193164 - NPC is floating.
+		 Ace -South Australian Gas @193164 - NPC is not at the till.
+		 Ace -DP10 @207128 - NPC is partially in the ground.
+		 Ace -Gun Runner's Dealer @222119 - NPC is floating.
 		
 		
 	Ace's To Do List
