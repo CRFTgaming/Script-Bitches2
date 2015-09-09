@@ -92,6 +92,8 @@ Map Problems :
 		 Ace -South Australian Gas @193164 - NPC is not at the till.
 		 Ace -DP10 @207128 - NPC is partially in the ground.
 		 Ace -Gun Runner's Dealer @222119 - NPC is floating.
+		 - Delivery Point @234351 - Not indicated on the map.
+		 
 		
 		
 	Ace's To Do List
