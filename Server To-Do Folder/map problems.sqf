@@ -4,7 +4,7 @@ Major Cities/Areas Tested
 	- Sydney (civ) [Woody]
 	- Brisbane (civ) [Woody]
 	- Cairns (civ) [Woody]
-	- Darwin (civ) [Woody]
+	- [x] Darwin (civ) [Woody] (see below - line 104/104)
 	- Northern Rebel Compound (civ) [Woody]
 	- South Rebel Outpost (civ) [Woody]
 	- Gang Hideout 3 (civ) [Woody]
@@ -93,8 +93,24 @@ Map Problems :
 		 Ace -DP10 @207128 - NPC is partially in the ground.
 		 Ace -Gun Runner's Dealer @222119 - NPC is floating.
 		 - Delivery Point @234351 - Not indicated on the map.
+		 - Rebel Airfield @269282 - NPC is behind hanger.
+		 - Rebel Airfield @269282 - Buying vehicles from NPC don't appear.
+		 - Rebel Airfield @269282 - Retrieving large aircraft explode.
+		 - Black Market Dealer @289366 - NPC is floating.
+		 - Black Market Dealer @290366 - Only have option to retrieve from Air Shop.
+		 - Darwin Airport @167338 (Plane Shop) - Vehicles spawned on runway are out side of radius to be stored.
+		 - Darwin Airport @167338 (Heli Shop) - Vehicles spawn to close to NPC.
+		 - Darwin Airport @167338 (Heli Shop) - No option to put in garage.
+		 - Darwin - Where do you buy a car in Darwin?
+		 - Darwin Marina @155333 - NPCs up in the air. 
+		 - Perth Gas North @055186 - Market NPC has no cash register to rob. (Option is there)
+		 - Perth Truck Shop @048177 - NPC is embeded in desk.
+		 - Perth Truck Shop @048177 - Vehicles spawn too close to NPC.
+		 - Perth Airport @069180- *Buying a CH-67 Huron takes money but doesn't spawn heli.
+		 - 
 		 
-		
+		 
+	*Not a map issue report up. 	
 		
 	Ace's To Do List
 		- Shop NPCs in Alice Springs
