@@ -8,7 +8,7 @@ Major Cities/Areas Tested
 	- Northern Rebel Compound (civ) [Woody]
 	- South Rebel Outpost (civ) [Woody]
 	- Gang Hideout 3 (civ) [Woody]
-	- Perth (civ) [Woody]
+	- [x] Perth (civ) [Woody] (see below - line 106/110)
 	- Adelaide (civ) [Woody]
 	
 Map Problems :	
@@ -107,10 +107,11 @@ Map Problems :
 		 - Perth Truck Shop @048177 - NPC is embeded in desk.
 		 - Perth Truck Shop @048177 - Vehicles spawn too close to NPC.
 		 - Perth Airport @069180- *Buying a CH-67 Huron takes money but doesn't spawn heli.
+		 - Perth Airport Plane Shop @068181 - NPC is floating.
 		 - 
 		 
 		 
-	*Not a map issue report up. 	
+	*Not a map issue, report up. 	
 		
 	Ace's To Do List
 		- Shop NPCs in Alice Springs
