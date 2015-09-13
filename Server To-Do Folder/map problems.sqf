@@ -108,7 +108,8 @@ Map Problems :
 		 - Perth Truck Shop @048177 - Vehicles spawn too close to NPC.
 		 - Perth Airport @069180- *Buying a CH-67 Huron takes money but doesn't spawn heli.
 		 - Perth Airport Plane Shop @068181 - NPC is floating.
-		 - 
+		 - Outlaw Biker Bar @268279 - NPC is not in bar building. (NPC is at DP15 @268280).
+		 - [woody's place holder - check Alice Springs]
 		 
 		 
 	*Not a map issue, report up. 	
