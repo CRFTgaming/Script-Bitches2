@@ -11,6 +11,7 @@ Major Cities/Areas Tested
 	- [x] Perth (civ) [Woody] (see below - line 106/110)
 	- Adelaide (civ) [Woody]
 	- Alice Springs (civ) [Woody]
+	- Tasmania (civ) [Woody]
 	
 Map Problems :	
 		 Ace -Adelaide DMV @252128 - NPC is floating
@@ -114,15 +115,28 @@ Map Problems :
 		 - Alice Springs Air Heliport @225247 - Needs to be renamed as Air Garage.
 		 - Alice Springs Air Heliport @225247 - Spawn point is too close to NPC for large aircraft.
 		 - Alice Springs Airplane Shop @225257 - NPC is floating.
-		 - Alice Springs General Store @221257 - NPC is not in a shop.
-		 - Alice Springs Bruce's Outback Outfits @221257 - NPC is not in a shop.
-		 - Alice Springs Market @221258 - NPC is not in a shop.
-		 - Alice Springs Market @221258 - NPC is floating.
+		 - Alice Springs General Store @221257 - **NPC is not in a shop.
+		 - Alice Springs Bruce's Outback Outfits @221257 - **NPC is not in a shop.
+		 - Alice Springs Market @221258 - **NPC is not in a shop.
+		 - Alice Springs Market @221258 - **NPC is floating.
+		 - Tasmania "South West Airstrip" @321027 - NPC is floating.
+		 - Tasmania "South West Airstrip" @321027 - Spawn a little too close for large aircraft.
+		 - Tasmania Hobart Medical @337034 - NPC is in desk.
+		 - Tasmania Hobart Medical @337034 - Has a map marker for Adelaide Medical.
+		 - Tasmania Hobart Go-Kart Shop @336034 - Go-Karts spawn at feet of vendor.
+		 - Tasmania Smithton DP2 @317049 - NPC in shelving.
+		 - Tasmania Smithton Diamond Trader @317048 - NPC is partially in ground.
+		 - Tasmania Marina Boat Shop (civ) @307054 - NPC is floating.
+		 - Tasmania Marina Boat Shop (civ) @307054 - Buying a boat does not spawn nor give keys.
+		 - Tasmania Marina Boat Shop (civ) @307054 - Garage labelled as Nexoe Marina.
+		 - Tasmania Marina Boat Shop (civ) @307054 - Retrieving boat spawns 9.5K away.
+		 - Flinders Island Gold Buyer @343056 - NPC is floating.
 		 - 
 		 
 		 
 	*Not a map issue as it is the same for all heli shops, report up. 	
-		
+	** Already on Ace's to-do list.
+	
 	Ace's To Do List
 		- Shop NPCs in Alice Springs
 		- Toowomba Gun store needs built
