@@ -130,7 +130,7 @@ Map Problems :
 		 - Tasmania Marina Boat Shop (civ) @307054 - Buying a boat does not spawn nor give keys.
 		 - Tasmania Marina Boat Shop (civ) @307054 - Garage labelled as Nexoe Marina.
 		 - Tasmania Marina Boat Shop (civ) @307054 - Retrieving boat spawns 9.5K away.
-		 - Flinders Island Gold Buyer @343056 - NPC is floating.
+		 - Flinders Island Gold Bars Buyer @343056 - NPC is floating.
 		 - 
 		 
 		 
