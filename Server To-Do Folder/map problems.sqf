@@ -10,6 +10,7 @@ Major Cities/Areas Tested
 	- Gang Hideout 3 (civ) [Woody]
 	- [x] Perth (civ) [Woody] (see below - line 106/110)
 	- Adelaide (civ) [Woody]
+	- Alice Springs (civ) [Woody]
 	
 Map Problems :	
 		 Ace -Adelaide DMV @252128 - NPC is floating
@@ -109,10 +110,18 @@ Map Problems :
 		 - Perth Airport @069180- *Buying a CH-67 Huron takes money but doesn't spawn heli.
 		 - Perth Airport Plane Shop @068181 - NPC is floating.
 		 - Outlaw Biker Bar @268279 - NPC is not in bar building. (NPC is at DP15 @268280).
-		 - [woody's place holder - check Alice Springs]
+		 - Alice Springs Helicopter Shop @225246 - *Buying a CH-67 Huron takes money but doesn't spawn heli.
+		 - Alice Springs Air Heliport @225247 - Needs to be renamed as Air Garage.
+		 - Alice Springs Air Heliport @225247 - Spawn point is too close to NPC for large aircraft.
+		 - Alice Springs Airplane Shop @225257 - NPC is floating.
+		 - Alice Springs General Store @221257 - NPC is not in a shop.
+		 - Alice Springs Bruce's Outback Outfits @221257 - NPC is not in a shop.
+		 - Alice Springs Market @221258 - NPC is not in a shop.
+		 - Alice Springs Market @221258 - NPC is floating.
+		 - 
 		 
 		 
-	*Not a map issue, report up. 	
+	*Not a map issue as it is the same for all heli shops, report up. 	
 		
 	Ace's To Do List
 		- Shop NPCs in Alice Springs
