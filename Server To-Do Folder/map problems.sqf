@@ -131,6 +131,7 @@ Map Problems :
 		 - Tasmania Marina Boat Shop (civ) @307054 - Garage labelled as Nexoe Marina.
 		 - Tasmania Marina Boat Shop (civ) @307054 - Retrieving boat spawns 9.5K away.
 		 - Flinders Island Gold Bars Buyer @343056 - NPC is floating.
+		 - Tailem bend Gas @262111 - NPC does not have a cash register.
 		 - 
 		 
 		 
