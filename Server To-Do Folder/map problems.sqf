@@ -13,6 +13,10 @@ Major Cities/Areas Tested
 	- Alice Springs (civ) [Woody]
 	- Tasmania (civ) [Woody]
 	- Blackmarket Trader South (civ) [Woody]
+	- Eden (civ) [Woody]
+	- Bathurst (civ) [Woody]
+	- Broken Hill + North Airstrip (civ) [Woody]
+	- 
 	
 Map Problems :	
 		 Ace -Adelaide DMV @252128 - NPC is floating
@@ -57,7 +61,7 @@ Map Problems :
 		 Ace -DP12 @344244 - NPC is floating.
 		 Ace -Cairns Airport @316309 - NPC is floating.
 		-Gang Hideout 3 @291341 - No NPCs (Does not use NPCs).
-		-DP16 @284352 - Has an NPC for a Gun Runner's Dealer. ----- Please Recheck.
+		
 		 Ace -Blackmarket Dealer @290365 - Shop named "Fancy Weapon Shop"
 		 Ace -Blackmarket Dealer @290365 - NPC is floating.
 		 ??? -Blackmarket Dealer @290365 - Non-floating NPC "Blackmarket Dealer" opens "Blackmarket Vehicle Shop"
@@ -133,12 +137,16 @@ Map Problems :
 		 - Tasmania Marina Boat Shop (civ) @307054 - Retrieving boat spawns 9.5K away.
 		 - Flinders Island Gold Bars Buyer @343056 - NPC is floating.
 		 - Tailem bend Gas @262111 - NPC does not have a cash register.
-		 - Turtle Dealer @270106 - NPC is not there or inside rocks.
+		 - Turtle Dealer @270106 - NPC is there but located inside rocks/not visible.
 		 - Black Market Trader @278080 - NPC context menu labelled Donator Vehicle Shop.
 		 - Black Market Trader @278080 - NPC screen for Donator Vehicle Shop is called Fancy Vehicle Shop.
 		 - Black Market Trader @278090 - NPC context menu labelled Donator Weapon Shop.
 		 - Black Market Trader @278090 - NPC screen for Donator Weapon Shop is called Fancy Weapon Shop.
-		 -
+		 - Broken Hill Airstrip @266186 - NPC is floating.
+		 - Broken Hill Airstrip @266186 - Aircraft spawn too close to NPC.
+		 - Broken Hill Airstrip @266186 - No option to store vehicle.
+		 - "DP16 @284352 - Has an NPC for a Gun Runner's Dealer. ----- Please Recheck." [Woody] Rechecked and NPC still there. 
+		 - "Ace -Gun Runner's Dealer @234251 - No NPC" [Woody] Should be written as @234351.
 		 
 		 
 	*Not a map issue as it is the same for all heli shops, report up. 	
