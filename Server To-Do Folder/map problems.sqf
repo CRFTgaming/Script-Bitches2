@@ -66,7 +66,7 @@ Map Problems :
 		 Ace -Blackmarket Dealer @290365 - NPC is floating.
 		 ??? -Blackmarket Dealer @290365 - Non-floating NPC "Blackmarket Dealer" opens "Blackmarket Vehicle Shop"
 		 ??? -Blackmarket Dealer @290365 - NPCs are not placed in Outpost compound.
-		 Ace -Gun Runner's Dealer @234251 - No NPC
+		
 		 Ace -Darwin Gas Station @158334 - No market NPC
 		 Ace -DP17 @164334 - Market NPC is next to delivery mission NPC.
 		 Ace -Darwin Medical @166335 - No medical assistance NPC for healing.
