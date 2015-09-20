@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# Prints out X & Y position for each delivery point (DP) in the mission.sqm file
+# Spits out X & Y position for each delivery point (DP) in the mission.sqm file
+# Relies on hardcoded inconsistentces to work and is held together with chewing gum and string
+# but it was quicker to write this than visit each DP on the map and manually write out the coordinates!
 # [Woody]
 
 FILE=mission.sqm
@@ -19,12 +21,20 @@ do
         FullCoOrd=`head -n $CoOrd $FILE | tail -1`
         StripCoOrd=`echo $FullCoOrd | cut -d'{' -f2`
 
-         
-        # echo -e "${MissName}\t${StripCoOrd}"
+        # Get only the DP number
+        DpNum=`echo ${MissName} | cut -d'_' -f2`
+
+        # Test to ensure that it is numeric
+        if [ "${DpNum}" -eq "${DpNum}" ] 2>/dev/null
+        then
+                PadDpNum=`printf "%0*d\n" 2 $DpNum`
+        else
+                PadDpNum=00
+        fi
 
         # StripCoOrd contains full coordinates, we only need six digits.
         Xcord=`echo ${StripCoOrd} | cut -d',' -f1 | cut -c1-3`
         Ycord=`echo ${StripCoOrd} | cut -d',' -f3 | cut -c1-3`
 
-        echo -e "${MissName}\t${Xcord},${Ycord}"
-done
+        echo -e "DP${PadDpNum}\t${Xcord},${Ycord}"
+done | sort
