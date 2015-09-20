@@ -18,13 +18,14 @@ do
                 CoOrd=`expr $LINES - 7`
         fi
 
+        # CoOrd variables need to be 'strung' to be displayed for some strange reason
         FullCoOrd=`head -n $CoOrd $FILE | tail -1`
         StripCoOrd=`echo $FullCoOrd | cut -d'{' -f2`
 
         # Get only the DP number
         DpNum=`echo ${MissName} | cut -d'_' -f2`
 
-        # Test to ensure that it is numeric
+        # Test to ensure that it is numeric and pad the number
         if [ "${DpNum}" -eq "${DpNum}" ] 2>/dev/null
         then
                 PadDpNum=`printf "%0*d\n" 2 $DpNum`
@@ -35,6 +36,9 @@ do
         # StripCoOrd contains full coordinates, we only need six digits.
         Xcord=`echo ${StripCoOrd} | cut -d',' -f1 | cut -c1-3`
         Ycord=`echo ${StripCoOrd} | cut -d',' -f3 | cut -c1-3`
+
+        #Stripped=`echo ${StripCoOrd} | strings`
+        #echo -e "${Stripped} - DP${PadDpNum}\t${Xcord},${Ycord}"
 
         echo -e "DP${PadDpNum}\t${Xcord},${Ycord}"
 done | sort
