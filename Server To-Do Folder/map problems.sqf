@@ -99,48 +99,48 @@ Map Problems :
 		 Ace -South Australian Gas @193164 - NPC is not at the till.
 		 Ace -DP10 @207128 - NPC is partially in the ground.
 		 Ace -Gun Runner's Dealer @222119 - NPC is floating.
-		 - Delivery Point @234351 - Not indicated on the map.
-		 - Rebel Airfield @269282 - NPC is behind hanger.
-		 - Rebel Airfield @269282 - Buying vehicles from NPC don't appear.
-		 - Rebel Airfield @269282 - Retrieving large aircraft explode.
-		 - Black Market Dealer @289366 - NPC is floating.
-		 - Black Market Dealer @290366 - Only have option to retrieve from Air Shop.
+		 - Delivery Point @234351 - Not indicated on the map. -? This is a gun runner dealer
+		 Ace - Rebel Airfield @269282 - NPC is behind hanger.
+		 Ace - Rebel Airfield @269282 - Buying vehicles from NPC don't appear.
+		 Ace - Rebel Airfield @269282 - Retrieving large aircraft explode.
+		 Ace - Black Market Dealer @289366 - NPC is floating.
+		 Ace - Black Market Dealer @290366 - Only have option to retrieve from Air Shop.
 		 - Darwin Airport @167338 (Plane Shop) - Vehicles spawned on runway are out side of radius to be stored.
-		 - Darwin Airport @167338 (Heli Shop) - Vehicles spawn to close to NPC.
-		 - Darwin Airport @167338 (Heli Shop) - No option to put in garage.
+		 Ace - Darwin Airport @167338 (Heli Shop) - Vehicles spawn to close to NPC.
+		 Ace - Darwin Airport @167338 (Heli Shop) - No option to put in garage.
 		 - Darwin - Where do you buy a car in Darwin?
 		 - Darwin Marina @155333 - NPCs up in the air. 
 		 - Perth Gas North @055186 - Market NPC has no cash register to rob. (Option is there)
-		 - Perth Truck Shop @048177 - NPC is embeded in desk.
-		 - Perth Truck Shop @048177 - Vehicles spawn too close to NPC.
-		 - Perth Airport @069180- *Buying a CH-67 Huron takes money but doesn't spawn heli.
-		 - Perth Airport Plane Shop @068181 - NPC is floating.
-		 - Outlaw Biker Bar @268279 - NPC is not in bar building. (NPC is at DP15 @268280).
+		 Ace - Perth Truck Shop @048177 - NPC is embeded in desk.
+		 Ace - Perth Truck Shop @048177 - Vehicles spawn too close to NPC.
+		 Ace? - Perth Airport @069180- *Buying a CH-67 Huron takes money but doesn't spawn heli.
+		 Ace - Perth Airport Plane Shop @068181 - NPC is floating.
+		 Ace - Outlaw Biker Bar @268279 - NPC is not in bar building. (NPC is at DP15 @268280).
 		 - Alice Springs Helicopter Shop @225246 - *Buying a CH-67 Huron takes money but doesn't spawn heli.
-		 - Alice Springs Air Heliport @225247 - Needs to be renamed as Air Garage.
-		 - Alice Springs Air Heliport @225247 - Spawn point is too close to NPC for large aircraft.
-		 - Alice Springs Airplane Shop @225257 - NPC is floating.
+		 Ace - Alice Springs Air Heliport @225247 - Needs to be renamed as Air Garage.
+		 Ace - Alice Springs Air Heliport @225247 - Spawn point is too close to NPC for large aircraft.
+		 Ace - Alice Springs Airplane Shop @225257 - NPC is floating.
 		 - Alice Springs General Store @221257 - **NPC is not in a shop.
 		 - Alice Springs Bruce's Outback Outfits @221257 - **NPC is not in a shop.
 		 - Alice Springs Market @221258 - **NPC is not in a shop.
 		 - Alice Springs Market @221258 - **NPC is floating.
-		 - Tasmania "South West Airstrip" @321027 - NPC is floating.
-		 - Tasmania "South West Airstrip" @321027 - Spawn a little too close for large aircraft.
-		 - Tasmania Hobart Medical @337034 - NPC is in desk.
-		 - Tasmania Hobart Medical @337034 - Has a map marker for Adelaide Medical.
-		 - Tasmania Hobart Go-Kart Shop @336034 - Go-Karts spawn at feet of vendor.
-		 - Tasmania Smithton DP2 @317049 - NPC in shelving.
-		 - Tasmania Smithton Diamond Trader @317048 - NPC is partially in ground.
-		 - Tasmania Marina Boat Shop (civ) @307054 - NPC is floating.
+		 Ace - Tasmania "South West Airstrip" @321027 - NPC is floating.
+		 Ace - Tasmania "South West Airstrip" @321027 - Spawn a little too close for large aircraft.
+		 Ace - Tasmania Hobart Medical @337034 - NPC is in desk.
+		 Ace - Tasmania Hobart Medical @337034 - Has a map marker for Adelaide Medical.
+		 Ace - Tasmania Hobart Go-Kart Shop @336034 - Go-Karts spawn at feet of vendor.
+		 Ace - Tasmania Smithton DP2 @317049 - NPC in shelving.
+		 Ace - Tasmania Smithton Diamond Trader @317048 - NPC is partially in ground.
+		 Ace - Tasmania Marina Boat Shop (civ) @307054 - NPC is floating.
 		 - Tasmania Marina Boat Shop (civ) @307054 - Buying a boat does not spawn nor give keys.
-		 - Tasmania Marina Boat Shop (civ) @307054 - Garage labelled as Nexoe Marina.
-		 - Tasmania Marina Boat Shop (civ) @307054 - Retrieving boat spawns 9.5K away.
-		 - Flinders Island Gold Bars Buyer @343056 - NPC is floating.
+		 Ace - Tasmania Marina Boat Shop (civ) @307054 - Garage labelled as Nexoe Marina.
+		 Ace - Tasmania Marina Boat Shop (civ) @307054 - Retrieving boat spawns 9.5K away.
+		 Ace - Flinders Island Gold Bars Buyer @343056 - NPC is floating.
 		 - Tailem bend Gas @262111 - NPC does not have a cash register.
 		 - Turtle Dealer @270106 - NPC is there but located inside rocks/not visible.
-		 - Black Market Trader @278080 - NPC context menu labelled Donator Vehicle Shop.
+		 Ace - Black Market Trader @278080 - NPC context menu labelled Donator Vehicle Shop.
 		 - Black Market Trader @278080 - NPC screen for Donator Vehicle Shop is called Fancy Vehicle Shop.
-		 - Black Market Trader @278090 - NPC context menu labelled Donator Weapon Shop.
+		 Ace - Black Market Trader @278090 - NPC context menu labelled Donator Weapon Shop.
 		 - Black Market Trader @278090 - NPC screen for Donator Weapon Shop is called Fancy Weapon Shop.
 		 - Broken Hill Airstrip @266186 - NPC is floating.
 		 - Broken Hill Airstrip @266186 - Aircraft spawn too close to NPC.
