@@ -1,0 +1,12 @@
+[Woody] The following Google sheet has a side-by-side comparison for the briefing.sqf.
+https://docs.google.com/spreadsheets/d/1ws8MoyCG6TzBxSHjqH-xCANt03UXTczaAXzPaTlsen0/edit?usp=sharing
+
+This covers Server Rules and Civ/Rebel/Gang Rules - it does *not* cover Police or EMS.
+
+*You will need to request access to edit.*
+
+To-do:
+ - Confirm safe zone usage (i.e. are there still safe zones?).
+ - Rebel Rules
+ - Gang Rules
+ - Verify illegal items with new items/commodities added.
